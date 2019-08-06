@@ -1,0 +1,14 @@
+.list-image {
+    width: 100px;
+}
+
+li {
+    padding: 10px;
+    margin: 2px;
+    width: 45%;
+}
+
+ol {
+    display: flex;
+    flex-wrap: wrap;
+}
